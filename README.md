@@ -8,7 +8,7 @@ As automações Python neste repositório foram criadas para automatizar tarefas
 
 ## Estrutura do Diretório
 
-- `📁 Passwd_generator/`: Gerador de senhas com python.
+- `📁 Passwd_generator/`: Gerador de senhas com python
 - `📁 Leitor de arquivos/`: Salva o nome de todos os arquivos de um dir em uma pasta.
 
 
